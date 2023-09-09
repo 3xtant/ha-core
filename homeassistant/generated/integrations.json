@@ -524,6 +524,12 @@
       "config_flow": true,
       "iot_class": "local_push"
     },
+    "azure_sms_service": {
+      "name": "Azure SMS Service",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "baf": {
       "name": "Big Ass Fans",
       "integration_type": "hub",
